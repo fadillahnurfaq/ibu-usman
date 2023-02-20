@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741263080058",
+    "project_id": "ibu-usman",
+    "storage_bucket": "ibu-usman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741263080058:android:957cd0c9aaaa19a8e359c3",
+        "android_client_info": {
+          "package_name": "com.example.ibu_usman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741263080058-3lmiikjrg96igmj5k9shu8qse0si2nco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJ3FY0H3H7XAviLBA9-Mgk72gONONcNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741263080058-3lmiikjrg96igmj5k9shu8qse0si2nco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
