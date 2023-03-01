@@ -1,16 +1,26 @@
 # ibu_usman
 
-A new Flutter project.
+Aplikasi penjualan untuk toko kue, yang terdapat CRUD. Dapat order pesanan yang tertera pada menu, Topup point dapat digunakan untuk memesanan. Menggunakan Firebase.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#Gambar Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+#Tampilan Login
+![Img 1](assets/github/Auth.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Tampilan User
+
+![Img 1](assets/github/user - home 1.png)
+![Img 1](assets/github/user - home 1.1.png)
+![Img 1](assets/github/user - home 2.png)
+![Img 1](assets/github/user - cart.png)
+![Img 1](assets/github/user - pesanan.png)
+![Img 1](assets/github/user - wishlist.png)
+![Img 1](assets/github/user - profile.png)
+
+#Tampilan Admin
+![Img 1](assets/github/admin - home.png)
+![Img 1](assets/github/admin - home 1.png)
+![Img 1](assets/github/admin - create.png)
+![Img 1](assets/github/admin - edit.png)
