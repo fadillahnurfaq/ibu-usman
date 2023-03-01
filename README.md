@@ -1,16 +1,16 @@
-## ibu_usman
+# ibu_usman
 
 Aplikasi penjualan untuk toko kue, yang terdapat CRUD. Dapat order pesanan yang tertera pada menu, Topup point dapat digunakan untuk memesanan. Menggunakan Firebase.
 
 
-#Gambar Aplikasi
+## Gambar Aplikasi
 
 
-#Tampilan Login
+## Tampilan Login
 ![Login](assets/github/Auth.png)
 
 
-#Tampilan User
+## Tampilan User
 
 ![user1](assets/github/user-home1.png)
 ![user2](assets/github/user-home1.1.png)
@@ -20,7 +20,7 @@ Aplikasi penjualan untuk toko kue, yang terdapat CRUD. Dapat order pesanan yang 
 ![user6](assets/github/user-wishlist.png)
 ![user7](assets/github/user-profile.png)
 
-#Tampilan Admin
+## Tampilan Admin
 ![admin1](assets/github/admin-home.png)
 ![admin2](assets/github/admin-home1.png)
 ![admin3](assets/github/admin-create.png)
