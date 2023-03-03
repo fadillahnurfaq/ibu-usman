@@ -1,6 +1,6 @@
 # ibu_usman
 
-Aplikasi penjualan untuk toko kue, yang terdapat CRUD. Dapat order pesanan yang tertera pada menu, Topup point dapat digunakan untuk memesanan. Menggunakan Firebase.
+Link aplikasi : https://drive.google.com/file/d/1OEpWuMzqG6UWMa2T4hwhkFu_R1RuBGaJ/view?usp=share_link
 
 
 ## Gambar Aplikasi
